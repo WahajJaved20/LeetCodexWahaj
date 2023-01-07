@@ -1,0 +1,2 @@
+# LeetCodexWahaj
+Greedy (134)
